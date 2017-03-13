@@ -18750,19 +18750,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "POWER-HOUSE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.59238167,
-          23.07385
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "SABARAMATI"
       },
       "geometry": {
