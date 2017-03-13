@@ -18646,19 +18646,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "SARKHAJ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          72.4947238,
-          23.98775048
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "GH-6(MOTO)"
       },
       "geometry": {
